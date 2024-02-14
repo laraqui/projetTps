@@ -4,7 +4,7 @@ public class Etudiant {
     private int age;
 	private int notes;
 
-
+	// constructeur
     public Etudiant(String nom, String prenom, int age, int notes) {
         this.nom = nom;
         this.prenom = prenom;
